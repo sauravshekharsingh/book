@@ -1,1 +1,2 @@
 This is the content for chapter 2 in the book.
+Some more lines for the chapter 2 of this book.
