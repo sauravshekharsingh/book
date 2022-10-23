@@ -1,2 +1,3 @@
 This is the content for chapter 3 in the book.
 Some more lines for the chapter 3 of this book.
+Another line for chapter 3 in the book.
